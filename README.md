@@ -6,6 +6,6 @@ controller.
 
 [![Gimbal](http://img.youtube.com/vi/6mbOqgZHl3Q/0.jpg)](https://youtu.be/6mbOqgZHl3Q)
 
-[Bottom](pics/bottom.png)
-[Rear View](pics/rear-view.png)
-[Side Front](pics/side-front.png)
+![Bottom](pics/bottom.png)
+![Rear View](pics/rear-view.png)
+![Side Front](pics/side-front.png)
